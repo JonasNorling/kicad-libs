@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: Thu 25 Jul 2013 10:04:42 AM CEST
+#
+$CMP TLK110
+D Texas Instruments TLK110 Ethernet PHY
+K ti phy ethernet
+$ENDCMP
+#
+#End Doc Library
